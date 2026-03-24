@@ -1,5 +1,6 @@
-CodeAlpha # Music Player Web App
+# Music Player Web App
 A fully interactive music player built as part of the **CodeAlpha Frontend Development Internship**.
+
 ---
 ## 🛠️ Technologies Used
 - **HTML** – Structure of the music player and controls 
